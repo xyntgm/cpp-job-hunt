@@ -1,0 +1,18 @@
+# 构建产物
+build/
+*.exe
+*.obj
+*.o
+*.a
+*.dll
+report.md
+
+# IDE
+.vscode/
+.idea/
+*.user
+CMakeLists.txt.user
+
+# 系统
+Thumbs.db
+desktop.ini
